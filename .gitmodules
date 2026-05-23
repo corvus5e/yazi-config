@@ -1,0 +1,9 @@
+[submodule "flavors/kanagawa.yazi"]
+	path = flavors/kanagawa.yazi
+	url = https://github.com/dangooddd/kanagawa.yazi.git
+[submodule "flavors/gruvbox-material.yazi"]
+	path = flavors/gruvbox-material.yazi
+	url = https://github.com/matt-dong-123/gruvbox-material.yazi.git
+[submodule "flavors/kanagawa-paper.yazi"]
+	path = flavors/kanagawa-paper.yazi
+	url = https://github.com/melindachang/kanagawa-paper.yazi.git
